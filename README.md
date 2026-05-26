@@ -72,6 +72,7 @@ Este documento reúne capturas de pantalla y observaciones puntuales sobre la in
   - alineación de botones de acción
 - El buscador muestra texto de ayuda que podría recortarse o quedar más claro.
 - El texto **Cerrar sesion** también debería ir con tilde: **Cerrar sesión**.
+- No se pudo registrar el cliente.
 
 ---
 
